@@ -204,6 +204,11 @@ Making it beautiful, usable, and delightful.
 | 🎭 [Brand Guardian](design/design-brand-guardian.md) | Brand identity, consistency, positioning | Brand strategy, identity development, guidelines |
 | 📖 [Visual Storyteller](design/design-visual-storyteller.md) | Visual narratives, multimedia content | Compelling visual stories, brand storytelling |
 | ✨ [Whimsy Injector](design/design-whimsy-injector.md) | Personality, delight, playful interactions | Adding joy, micro-interactions, Easter eggs, brand personality |
+| 🎨 [Design Desk Lead](design/design-desk-lead.md) | Creative briefs, art direction, specialist routing | Leading visual work inside the Delivery Orchestrator's team |
+| 🔤 [Visual Identity Designer](design/design-visual-identity-designer.md) | Logo system, palette, typography, guidelines | Creating a graphic charter from scratch |
+| ✏️ [2D Graphic Designer](design/design-2d-graphic-designer.md) | Print and screen layouts, vector artwork | Posters, social visuals, packaging artwork, icons |
+| 🧊 [3D Object Designer](design/design-3d-object-designer.md) | Dimensioned models, print- and render-ready exports | Product models, packaging volumes, stands |
+| 👕 [Apparel Designer](design/design-apparel-designer.md) | Garment design, tech packs, size grading | Clothing pieces and small collections ready to quote |
 | 📷 [Image Prompt Engineer](design/design-image-prompt-engineer.md) | AI image generation prompts, photography | Photography prompts for Midjourney, DALL-E, Stable Diffusion |
 | 🌈 [Inclusive Visuals Specialist](design/design-inclusive-visuals-specialist.md) | Representation, bias mitigation, authentic imagery | Generating culturally accurate AI images and video |
 | 🎭 [Persona Walkthrough Specialist](design/design-persona-walkthrough.md) | Persona-driven cognitive walkthroughs | Simulating user reactions and friction at each scroll position |
@@ -305,7 +310,7 @@ Keeping the trains running on time (and under budget).
 |-------|-----------|-------------|
 | 🎬 [Studio Producer](project-management/project-management-studio-producer.md) | High-level orchestration, portfolio management | Multi-project oversight, strategic alignment, resource allocation |
 | 🐑 [Project Shepherd](project-management/project-management-project-shepherd.md) | Cross-functional coordination, timeline management | End-to-end project coordination, stakeholder management |
-| 🧭 [Delivery Orchestrator](project-management/project-management-delivery-orchestrator.md) | Charter-driven dispatch across eight desk leads | Running a full team (marketing, sales, logistics, procurement, accounting, IT, management, admin) on coursework or a small business — see [charter template](examples/desk-team-charter.md) |
+| 🧭 [Delivery Orchestrator](project-management/project-management-delivery-orchestrator.md) | Charter-driven dispatch across nine desk leads | Running a full team (marketing, sales, logistics, procurement, accounting, IT, design, management, admin) on coursework or a small business — see [charter template](examples/desk-team-charter.md) |
 | 🧑‍💼 [Team Management Desk Lead](project-management/project-management-team-management-desk-lead.md) | Planning, role allocation, people documents | Organising a group project or a small team under the Delivery Orchestrator |
 | ⚙️ [Studio Operations](project-management/project-management-studio-operations.md) | Day-to-day efficiency, process optimization | Operational excellence, team support, productivity |
 | 🧪 [Experiment Tracker](project-management/project-management-experiment-tracker.md) | A/B tests, hypothesis validation | Experiment management, data-driven decisions, testing |

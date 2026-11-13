@@ -1,4 +1,5 @@
-# The multi-desk team: one orchestrator, eight desk leads, three shared helpers.
+# The multi-desk team: one orchestrator, nine desk leads, three shared helpers,
+# four design specialists.
 #
 #   ./scripts/install.sh --tool claude-code --agents-file scripts/agents-to-install.desk-team
 #
@@ -12,9 +13,15 @@ Logistics Desk Lead
 Procurement Desk Lead
 Accounting Desk Lead
 IT Desk Lead
+Design Desk Lead
 Team Management Desk Lead
 Administration Desk Lead
 
 Desk Researcher
 Desk Contractor
 Desk Certifier
+
+Visual Identity Designer
+2D Graphic Designer
+3D Object Designer
+Apparel Designer

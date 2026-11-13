@@ -30,6 +30,7 @@
 | Approvisionnement | _ex. : au moins trois offres comparées ; pas de fournisseur sans preuve de conformité_ |
 | Comptabilité | _ex. : montants en euros, arrondis au centime ; préciser HT ou TTC_ |
 | Informatique | _ex. : outils gratuits uniquement ; rien qui nécessite des droits administrateur_ |
+| Design | _ex. : respecter ma charte graphique ; polices et images libres de droits uniquement_ |
 | Management | _ex. : une tâche = un responsable = une date_ |
 | Administration | _ex. : nommage des fichiers AAAA-MM-JJ_poste_sujet_vNN_ |
 
