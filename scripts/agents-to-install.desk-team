@@ -1,0 +1,20 @@
+# The multi-desk team: one orchestrator, eight desk leads, three shared helpers.
+#
+#   ./scripts/install.sh --tool claude-code --agents-file scripts/agents-to-install.desk-team
+#
+# Charter template for the orchestrator: examples/desk-team-charter.md
+#
+Delivery Orchestrator
+
+Marketing Desk Lead
+Sales Desk Lead
+Logistics Desk Lead
+Procurement Desk Lead
+Accounting Desk Lead
+IT Desk Lead
+Team Management Desk Lead
+Administration Desk Lead
+
+Desk Researcher
+Desk Contractor
+Desk Certifier

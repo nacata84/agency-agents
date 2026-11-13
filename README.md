@@ -305,7 +305,8 @@ Keeping the trains running on time (and under budget).
 |-------|-----------|-------------|
 | 🎬 [Studio Producer](project-management/project-management-studio-producer.md) | High-level orchestration, portfolio management | Multi-project oversight, strategic alignment, resource allocation |
 | 🐑 [Project Shepherd](project-management/project-management-project-shepherd.md) | Cross-functional coordination, timeline management | End-to-end project coordination, stakeholder management |
-| 🧭 [Delivery Orchestrator](project-management/project-management-delivery-orchestrator.md) | Sub-agent dispatch: research, production, independent verification | Any deliverable (3D, spreadsheet, report) built by a crew of single-purpose sub-agents |
+| 🧭 [Delivery Orchestrator](project-management/project-management-delivery-orchestrator.md) | Charter-driven dispatch across eight desk leads | Running a full team (marketing, sales, logistics, procurement, accounting, IT, management, admin) on coursework or a small business — see [charter template](examples/desk-team-charter.md) |
+| 🧑‍💼 [Team Management Desk Lead](project-management/project-management-team-management-desk-lead.md) | Planning, role allocation, people documents | Organising a group project or a small team under the Delivery Orchestrator |
 | ⚙️ [Studio Operations](project-management/project-management-studio-operations.md) | Day-to-day efficiency, process optimization | Operational excellence, team support, productivity |
 | 🧪 [Experiment Tracker](project-management/project-management-experiment-tracker.md) | A/B tests, hypothesis validation | Experiment management, data-driven decisions, testing |
 | 👔 [Senior Project Manager](project-management/project-manager-senior.md) | Realistic scoping, task conversion | Converting specs to tasks, scope management |
