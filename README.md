@@ -305,6 +305,7 @@ Keeping the trains running on time (and under budget).
 |-------|-----------|-------------|
 | 🎬 [Studio Producer](project-management/project-management-studio-producer.md) | High-level orchestration, portfolio management | Multi-project oversight, strategic alignment, resource allocation |
 | 🐑 [Project Shepherd](project-management/project-management-project-shepherd.md) | Cross-functional coordination, timeline management | End-to-end project coordination, stakeholder management |
+| 🧭 [Delivery Orchestrator](project-management/project-management-delivery-orchestrator.md) | Sub-agent dispatch: research, production, independent verification | Any deliverable (3D, spreadsheet, report) built by a crew of single-purpose sub-agents |
 | ⚙️ [Studio Operations](project-management/project-management-studio-operations.md) | Day-to-day efficiency, process optimization | Operational excellence, team support, productivity |
 | 🧪 [Experiment Tracker](project-management/project-management-experiment-tracker.md) | A/B tests, hypothesis validation | Experiment management, data-driven decisions, testing |
 | 👔 [Senior Project Manager](project-management/project-manager-senior.md) | Realistic scoping, task conversion | Converting specs to tasks, scope management |
